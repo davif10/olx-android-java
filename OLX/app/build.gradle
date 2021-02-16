@@ -54,5 +54,8 @@ dependencies {
     //Depêndencia dialog de progresso
     implementation 'com.github.d-max:spots-dialog:1.1@aar'
 
+    //Depêndencia Picasso
+    implementation 'com.squareup.picasso:picasso:2.71828'
+
     android.defaultConfig.vectorDrawables.useSupportLibrary = true
 }
