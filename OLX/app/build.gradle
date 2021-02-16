@@ -51,5 +51,8 @@ dependencies {
     //Dependencia para mascara telefone
     implementation 'com.github.santalu:maskara:1.0.0'
 
+    //Depêndencia dialog de progresso
+    implementation 'com.github.d-max:spots-dialog:1.1@aar'
+
     android.defaultConfig.vectorDrawables.useSupportLibrary = true
 }
